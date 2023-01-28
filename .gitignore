@@ -1,0 +1,13 @@
+.vs
+Cloudweather.Temperature/*.user
+Cloudweather.Temperature/bin/Debug/net6.0
+Cloudweather.Temperature/obj
+Cloudweather.Precipitation/*.user
+Cloudweather.Precipitation/bin/Debug/net6.0
+Cloudweather.Precipitation/obj
+Cloudweather.Report/*.user
+Cloudweather.Report/bin/Debug/net6.0
+Cloudweather.Report/obj
+Cloudweather.DataLoader/*.user
+Cloudweather.DataLoader/bin/Debug/net6.0
+Cloudweather.DataLoader/obj
